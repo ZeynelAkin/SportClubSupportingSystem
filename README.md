@@ -1,2 +1,2 @@
 # SportClubSupportingSystem
-Spor Akademisi Randevu Uygulaması
+Android Studio ve SQLite kullanılarak yapılmış bir android uygulamasıdır.
